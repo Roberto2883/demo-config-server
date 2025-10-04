@@ -11,6 +11,8 @@ spring:
       path: /h2-console
 
   jpa:
+    hibernate:
+      ddl-auto: create-drop # Esta es la propiedad que faltaba
     show-sql: true
     properties:
       hibernate:
