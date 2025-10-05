@@ -15,4 +15,4 @@ spring:
         dialect: org.hibernate.dialect.MySQLDialect
 
 
-mensaje: "PRUEBA"
+mensaje: "PRUEBA 2"
